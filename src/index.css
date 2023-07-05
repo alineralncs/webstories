@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #000;
+}
+.swiper-container {
+  height: 80vh;
+}
+.swiper-pagination-bullets {
+  color: #ffffff;
+
+}
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
+
+.typewriter {
+  overflow: hidden; /* Ocultar o texto que não foi digitado ainda */
+  white-space: nowrap; /* Impede quebrar a linha durante a animação */
+  animation: typing 5s steps(30) infinite;
+}
+/* 
+.swiper-pagination-fraction, .swiper-pagination-custom, .swiper-horizontal > .swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal {
+
+} */
