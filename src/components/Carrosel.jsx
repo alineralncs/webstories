@@ -19,8 +19,8 @@ export function Carrosel() {
 
 <iframe
         style={{ border: '1px solid rgba(0, 0, 0, 0.1)' }}
-        width="800"
-        height="800"
+        width="1000"
+        height="1000"
         src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FL51ASgBo5cwnOz0ZSq67rO%2FUntitled%3Fpage-id%3D1%253A247%26type%3Ddesign%26node-id%3D1-248%26viewport%3D718%252C478%252C1.03%26t%3DLhD4ki73pxTLQGwe-1%26scaling%3Dscale-down%26mode%3Ddesign"
         allowFullScreen
       ></iframe>
